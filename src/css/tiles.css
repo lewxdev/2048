@@ -1,0 +1,143 @@
+.cell[data-value="2"], .cell[data-value="4"] {
+	color: #827364;
+}
+
+.cell[data-value="2"] {
+	background: #dfd9d2;
+}
+
+.cell[data-value="2"]::before {
+	content: "2";
+}
+
+.cell[data-value="4"] {
+	background: #d5cfc2;
+}
+
+.cell[data-value="4"]::before {
+	content: "4";
+}
+
+.cell[data-value="8"] {
+	background: #dba43d;
+}
+
+.cell[data-value="8"]::before {
+	content: "8";
+}
+
+.cell[data-value="16"] {
+	background: #c08b28;
+}
+
+.cell[data-value="16"]::before {
+	content: "16";
+}
+
+.cell[data-value="32"] {
+	background: #c56336;
+}
+
+.cell[data-value="32"]::before {
+	content: "32";
+}
+
+.cell[data-value="64"] {
+	background: #ac4a1d;
+}
+
+.cell[data-value="64"]::before {
+	content: "64";
+}
+
+.cell[data-value="128"] {
+	background: #e4d86d;
+}
+
+.cell[data-value="128"]::before {
+	content: "128";
+}
+
+.cell[data-value="256"] {
+	background: #e2d244;
+}
+
+.cell[data-value="256"]::before {
+	content: "256";
+}
+
+.cell[data-value="512"] {
+	background: #d1c237;
+}
+
+.cell[data-value="512"]::before {
+	content: "512";
+}
+
+.cell[data-value="1024"] {
+	background: #e0d041;
+}
+
+.cell[data-value="1024"]::before {
+	content: "1024";
+}
+
+.cell[data-value="2048"] {
+	background: #e9d736;
+}
+
+.cell[data-value="2048"]::before {
+	content: "2048";
+}
+
+.cell[data-value="4096"] {
+	background: #2c2c2c;
+}
+
+.cell[data-value="4096"]::before {
+	content: "4096";
+}
+
+.cell[data-value="8192"] {
+	background: #2c2c2c;
+}
+
+.cell[data-value="8192"]::before {
+	content: "8192";
+}
+
+.cell[data-value="16384"] {
+	background: #2c2c2c;
+}
+
+.cell[data-value="16384"]::before {
+	content: "16384";
+	font-size: 38px;
+}
+
+.cell[data-value="32768"] {
+	background: #2c2c2c;
+}
+
+.cell[data-value="32768"]::before {
+	content: "32768";
+	font-size: 38px;
+}
+
+.cell[data-value="65536"] {
+	background: #2c2c2c;
+}
+
+.cell[data-value="65536"]::before {
+	content: "65536";
+	font-size: 38px;
+}
+
+.cell[data-value="131072"] {
+	background: #2c2c2c;
+}
+
+.cell[data-value="131072"]::before {
+	content: "131072";
+	font-size: 38px;
+}
