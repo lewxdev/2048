@@ -119,13 +119,16 @@ h1 {
 	box-shadow: #928b82 0 5px 0;
 }
 
-.cell {
+.cell, .tile {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #cbc1b5;
-	color: #ffffff;
-	margin: 16px 8px;
 	border-radius: 6.25px;
 	height: 128px; width: 128px;
+}
+
+.cell {
+	margin: 16px 8px;
+	color: #ffffff;
+	background: #cbc1b5;
 }
